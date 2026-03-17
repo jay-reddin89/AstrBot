@@ -21,7 +21,6 @@ data_v2.db
 data_v3.db
 configs/session
 configs/config.yaml
-cmd_config.json
 
 # Plugins
 addons/plugins
